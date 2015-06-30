@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"FemRand"
+	"version"			"0.1"
+	"up_date"			"00/00/00"
+	"author_name"			"Tuxie"
+	"author_email"			"magnusjjj@gmail.com"
+	"author_url"			"http://gfe.nu"
+	"info"				"Femrand"
+	"override"			"0"
+}
